@@ -1,0 +1,5 @@
+## Please list additional packages with version numbers
+numpy
+matplotlib
+scikit-learn
+pandas
